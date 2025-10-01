@@ -8,11 +8,11 @@ While physical and basic logical controls (firewall, antivirus, data integrity) 
 ---
 
 ## Key Risks
-- **Excessive privileges:** All employees can access sensitive customer and payment data:contentReference[oaicite:5]{index=5}  
-- **No disaster recovery/backups:** No plan or copies of critical data in case of breach/outage:contentReference[oaicite:6]{index=6}  
-- **Weak authentication:** Password requirements minimal; no password manager:contentReference[oaicite:7]{index=7}  
-- **No intrusion detection system (IDS):** Limited ability to detect/respond to attacks:contentReference[oaicite:8]{index=8}  
-- **Unencrypted sensitive data:** Cardholder and PII/SPII stored without encryption:contentReference[oaicite:9]{index=9}  
+- **Excessive privileges:** All employees can access sensitive customer and payment data.  
+- **No disaster recovery/backups:** No plan or copies of critical data in case of breach/outage. 
+- **Weak authentication:** Password requirements minimal; no password manager. 
+- **No intrusion detection system (IDS):** Limited ability to detect/respond to attacks.  
+- **Unencrypted sensitive data:** Cardholder and PII/SPII stored without encryption.
 
 ---
 
@@ -24,11 +24,11 @@ While physical and basic logical controls (firewall, antivirus, data integrity) 
 ---
 
 ## Strengths
-- Firewall blocks traffic with defined rules:contentReference[oaicite:10]{index=10}  
-- Antivirus software installed and monitored regularly:contentReference[oaicite:11]{index=11}  
-- Data integrity controls in place:contentReference[oaicite:12]{index=12}  
-- Physical controls (locks, CCTV, fire detection) are sufficient:contentReference[oaicite:13]{index=13}  
-- GDPR 72-hour breach notification plan exists:contentReference[oaicite:14]{index=14}  
+- Firewall blocks traffic with defined rules.
+- Antivirus software installed and monitored regularly. 
+- Data integrity controls in place.
+- Physical controls (locks, CCTV, fire detection) are sufficient. 
+- GDPR 72-hour breach notification plan exists.
 
 ---
 
