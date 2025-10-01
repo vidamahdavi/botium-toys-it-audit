@@ -56,10 +56,10 @@ The IT manager initiated an **internal audit** to:
 ---
 
 ## 📦 Deliverables
-
 - [Controls & Compliance Checklist (Markdown)](docs/Controls_and_Compliance_Checklist.md)  
-- [Completed Checklist PDF](artifacts/Completed_Checklist.pdf)  
+- [Completed Checklist PDF](docs/artifacts/Completed_Checklist.pdf)  
 - [Audit Summary](docs/Audit_Summary.md)  
+
 
 ---
 
