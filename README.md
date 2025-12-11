@@ -35,7 +35,7 @@ The IT manager initiated an **internal audit** to:
 ## 🛠️ My Work
 
 - Reviewed Botium Toys’ **scope, goals, and risk assessment report**  
-- Completed a **Controls & Compliance Checklist**:contentReference[oaicite:4]{index=4}  
+- Completed a **Controls & Compliance Checklist**
 - Evaluated security controls against NIST CSF  
 - Analyzed compliance readiness for PCI DSS, GDPR, and SOC  
 - Documented **findings** and **recommendations**
