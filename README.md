@@ -22,13 +22,13 @@ The IT manager initiated an **internal audit** to:
 
 ## 🎯 Scope & Goals
 
-**Scope:** The entire security program at Botium Toys — including employee devices, internal network, systems, and services:contentReference[oaicite:2]{index=2}.  
+**Scope:** The entire security program at Botium Toys — including employee devices, internal network, systems, and services.
 
 **Goals:**  
 - Review assets managed by IT  
 - Complete a **controls and compliance checklist**  
 - Identify missing controls and compliance gaps  
-- Recommend improvements to strengthen security posture:contentReference[oaicite:3]{index=3}
+- Recommend improvements to strengthen security posture
 
 ---
 
